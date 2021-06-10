@@ -1,8 +1,8 @@
 # THEMIS PROTOCOL WHITEPAPER
 The Premier NTF Collateral Lending Protocol
 
+Version-0.1 Published on Jun·10th，2021
 # Contents
----
 - [Contents](#Contents)
 - [Motivation](#Motivation)
 - [Desin Principles](#Design-Principles)
@@ -44,8 +44,6 @@ The imagination brought by the innovation of DeFi has made the concept of NFT ho
 We plan to improve the efficiency of lending by providing centralized lending instead of P2P lending. Thus, we can get a more efficient use of funds, while spreading the risk to different segments such as lending pools, auction, yielding farming, staking, and liquidation, and governing the native crypto assets in the protocol in principle through the three-point balance of yield, security, and liquidity. In the future, we will continue to explore the possibilities of DeFi to provide a more secure and easy-to-use product so that more people can benefit through crypto assets.
 
 # Design Principles
-
----
 
 Themis Protocol is deployed on Ethereum at its core and will eventually support multiple chains in parallel, and Themis will have business nodes at various points based on the characteristics of the asset flows. This means that the early operational framework of Themis is very important, and the ultimate vision of Themis protocol is to be the "Libra" for measuring the value of native crypto assets.
 
@@ -181,8 +179,6 @@ The liquidator is an important role to assist the platform in manual liquidation
 
 # Token Economics
 
----
-
 Themis Protocol will issue governance tokens TMS to be used for the governance of each segment.
 
 ## Token Basic Information
@@ -237,8 +233,6 @@ Themis Protocol will distribute 100% of all proceeds to TMS holders, which users
 
 # Risk Management
 
----
-
 ## Risk-taking role
 
 Themis team actively explores the rationality and security of the NFT lending protocol. The Themis protocol is based on the concept of risk-dispersed, targeted governance and differentiates the roles involved in the chain, which primarily bear the following risks.
@@ -266,8 +260,6 @@ The Impermanent Loss Voucher is an additional voucher granted to the liquidity p
 When there is a systemic risk that all assets decline and the excess borrowed assets cannot be liquidated in a timely manner, this may result in the protocol being forced to deactivate (due to certain restrictions initially set by the protocol to avoid extreme quotes, such as closing down collateralized lending on third-party platform categories when the reserve pool is insufficient. Or new borrowers may not be able to borrow additional funds when the lending pool is undersupplied, etc.) What is certain at this time is that in the event of a systemic liquidity crisis, to ensure that there is no stagnation of platform development due to the collapse of the economic system. The platform's auction function, lending function will remain. However, the rewards of liquidity mining will be reduced to avoid the unpredictable loss of large liquidity providers. By voting, it is decided that at a certain block height re, all out block rewards originally rewarded to liquidity mining go to the black hole address.
 
 # Outlook
-
----
 
 It is difficult to make a definitive statement about the future of Themis protocol, as it will continue to evolve, and our framework is designed to support the reasonable operation of all DeFi products. Themis vision is to become a value scales for native crypto assets. While we are actively developing and completing our NFT pricing and collateral lending business, we are constantly looking for opportunities to expand our business horizontally to bring more convenience and revenue to the community. We firmly believe that collateral is the "magic mirror" of all asset values. This, in turn, cannot be achieved without a core function like general Oracle. Our mission is to find better pricing models for native crypto assets and provide more equity to them. And this means that we may move in the following directions in the long term.
 
